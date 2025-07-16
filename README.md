@@ -2,13 +2,13 @@
 
 This repository contains the implementation of a modular, real-time honeypot system that uses large language models (LLMs) to infer malicious behavior and trigger automated IP blocking. The system integrates Cowrie for SSH session emulation and Mixtral (accessed via GroqCloud) for behavioral reasoning.
 
-## ⚙️ Architecture Overview
+##  Architecture Overview
 
 ```
 Cowrie Honeypot → JSON Logs → Prompt Engine → Mixtral LLM → Risk Score → Firewall Action
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository.
 2. Install dependencies:
