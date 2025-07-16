@@ -29,6 +29,8 @@ Cowrie Honeypot → JSON Logs → Prompt Engine → Mixtral LLM → Risk Score �
 - Cowrie honeypot
 - iptables (Linux-based firewall)
 
+
+
 ## 📄 License
 
 MIT License
