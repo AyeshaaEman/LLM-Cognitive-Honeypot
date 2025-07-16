@@ -1,1 +1,1 @@
-Live Demo of LLM Cognitive Honeypot: https://visualizeterm.pythonanywhere.com/
+🔗 Hosted Application: [LLM Cognitive Honeypot Dashboard] https://visualizeterm.pythonanywhere.com/
