@@ -29,7 +29,8 @@ Cowrie Honeypot → JSON Logs → Prompt Engine → Mixtral LLM → Risk Score �
 - Cowrie honeypot
 - iptables (Linux-based firewall)
 
-
+![OS](https://img.shields.io/badge/OS-Linux-green)
+![IDE](https://img.shields.io/badge/IDE-VS%20Code-blue)
 
 ## 📄 License
 
