@@ -1,5 +1,8 @@
 # LLM-Driven Cognitive Honeypot
-
+![Build](https://github.com/<username>/<repo>/actions/workflows/python-app.yml/badge.svg)
+![OS](https://img.shields.io/badge/OS-Linux-green)
+![IDE](https://img.shields.io/badge/IDE-VS%20Code-blue)
+![Python](https://img.shields.io/badge/Python-3.10-yellow)
 This repository contains the implementation of a modular, real-time honeypot system that uses large language models (LLMs) to infer malicious behavior and trigger automated IP blocking. The system integrates Cowrie for SSH session emulation and Mixtral (accessed via GroqCloud) for behavioral reasoning.
 
 ##  Architecture Overview
@@ -29,8 +32,6 @@ Cowrie Honeypot → JSON Logs → Prompt Engine → Mixtral LLM → Risk Score �
 - Cowrie honeypot
 - iptables (Linux-based firewall)
 
-![OS](https://img.shields.io/badge/OS-Linux-green)
-![IDE](https://img.shields.io/badge/IDE-VS%20Code-blue)
 
 ## 📄 License
 
